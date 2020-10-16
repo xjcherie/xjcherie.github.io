@@ -7,3 +7,4 @@
 *.sln
 .jekyll-cache
 _site
+deprecated/*
