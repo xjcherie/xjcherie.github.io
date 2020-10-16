@@ -35,8 +35,19 @@ plugins:
 theme_setting:
   lang:
     category_all: 全部
+#  slides_size: 5
 
 back_title: 回首页
+
+#comment:
+#  enabled: true
+#  dir: img/smileys
+#  provider: disqus
+#  provider: static
+#  disqus:
+#    name: your_website_name
+#  static:
+#    postUrl: https://api.staticman.net/v2/connect/{your GitHub username}/{your repository name}
 
 # Exclude from processing.
 # The following items will not be processed, by default.
