@@ -6,3 +6,4 @@
 *.njsproj
 *.sln
 .jekyll-cache
+_site
