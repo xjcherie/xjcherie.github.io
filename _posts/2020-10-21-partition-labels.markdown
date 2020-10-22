@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "木盒"
-date:   2020-10-15 18:07:09 +0800
-categories: Java 杂坛 碎语
+title:  "763. Partition Labels 划分字母区间"
+date:   2020-10-21 18:07:09 +0800
+categories: LeetCode
 ---
+https://leetcode.com/problems/partition-labels/
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
