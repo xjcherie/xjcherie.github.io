@@ -8,3 +8,4 @@
 .jekyll-cache
 _site
 deprecated/*
+node_modules
