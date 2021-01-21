@@ -3,7 +3,7 @@
   word-wrap: break-word;
   overflow: hidden;
   color: var(--dark);
-  line-height: 1.7;
+  line-height: 2;
   /* Printing */
   /* Typography */
   /* Spacing */
@@ -133,7 +133,8 @@
 }
 .content code,
 .content pre {
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  //font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   direction: ltr;
   margin: 0;
   padding: 0;

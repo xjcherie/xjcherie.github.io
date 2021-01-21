@@ -9,3 +9,4 @@
 _site
 deprecated/*
 node_modules
+package-lock.json
