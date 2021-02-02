@@ -56,4 +56,4 @@ public int removeDuplicates(int[] nums) {
 #### 小结
 我与官方解题思路的不同之处在于，官方利用到了指针元素，让其与具体循环的元素值做了比较。
 
-leetcode原题链接：[https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)
+leetcode原题链接：[26. 删除排序数组中的重复项](https://leetcode.com/problems/remove-duplicates-from-sorted-array)

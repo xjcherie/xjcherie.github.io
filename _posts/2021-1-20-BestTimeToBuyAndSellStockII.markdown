@@ -61,4 +61,4 @@ public class BestTimeToBuyAndSellStockII {
 #### 小结
 
 
-leetcode原题链接：[https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)
+leetcode原题链接：[122. 买卖股票的最佳时机 II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
