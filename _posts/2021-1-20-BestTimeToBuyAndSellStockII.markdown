@@ -2,7 +2,7 @@
 layout: post
 title:  "122. 买卖股票的最佳时机 II"
 date:   2020-1-20 21:00:00
-categories: 算法
+categories: LeetCode
 ---
 题目描述
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "217. 存在重复元素（easy，可忽略）"
 date:   2020-2-2 21:00:00
-categories: 算法
+categories: LeetCode
 ---
 题目描述
 

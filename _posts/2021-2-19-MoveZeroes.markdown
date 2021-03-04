@@ -2,7 +2,7 @@
 layout: post
 title:  "283. 移动零"
 date:   2020-2-19 20:00:00
-categories: 算法
+categories: LeetCode
 ---
 题目描述
 

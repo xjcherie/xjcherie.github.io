@@ -2,7 +2,7 @@
 layout: post
 title:  "26. 删除排序数组中的重复项"
 date:   2020-1-21 20:37:09
-categories: 算法
+categories: LeetCode
 ---
 题目描述
 

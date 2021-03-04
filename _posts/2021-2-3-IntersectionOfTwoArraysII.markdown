@@ -2,7 +2,7 @@
 layout: post
 title:  "350. 两个数组的交集 II"
 date:   2020-2-3 22:00:00
-categories: 算法
+categories: LeetCode
 ---
 题目描述
 

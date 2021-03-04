@@ -2,7 +2,7 @@
 layout: post
 title:  "24. 两两交换链表中的节点"
 date:   2020-2-28 22:30:00
-categories: 算法
+categories: LeetCode
 ---
 题目描述
 
